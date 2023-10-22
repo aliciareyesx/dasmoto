@@ -1,0 +1,43 @@
+body {
+    margin: 0 10px;
+}
+
+.banner {
+    background-image: url("../images/pattern.webp");
+    margin: 60px 0px;
+}
+
+.banner h1 {
+    font-size: 100px;
+    text-align: center;
+    color: khaki;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+* {
+font-family: Helvetica, Arial, sans-serif;
+}
+
+h2 {
+    font-size: 32px;
+    color: white;
+}
+
+.green {
+    background-color: mediumspringgreen;
+}
+
+.coral {
+    background-color: lightcoral;
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+strong {
+    color: blue;
+}
